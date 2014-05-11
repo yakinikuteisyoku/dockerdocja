@@ -10,3 +10,21 @@ Docker コンテナは任意のデータをカプセル化でき、事実上全�
 開発者がPC上で開発、テストしたコンテナがスケールして、本番環境、仮想マシン、物理サーバ、オープンスタックのクラスタ、パブリックインスタンスまたは、それらの組み合わせでも実行するでしょう。
 >Docker containers can encapsulate any payload, and will run consistently on and between virtually any server.
 >The same container that a developer builds and tests on a laptop will run at scale, in production\*, on VMs, bare-metal servers, OpenStack clusters, public instances, or combinations of the above.
+
+Docker に組み込む一般的な使用事例:
+>Common use cases for Docker include:
+
+* アプリケーションのパーケージ化とデプロイを自動化する
+>Automating the packaging and deployment of applications
+
+* 軽量でプライベートな PAAS 環境を作成する
+>Creation of lightweight, private PAAS environments
+
+* 自動テストと継続的インテグレーション/展開
+>Automated testing and continuous integration/deployment
+
+* Webアプリ、データベース、バックエンドサービスをスケールして展開する
+>Deploying and scaling web app, databases and backend services
+
+\*Docker は現在開発中であるため注意してください。本番環境で使用すべきではありません(今のところ)。
+>Please note Docker is currently under heavy development. It should not be used in productjion (yet).

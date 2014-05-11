@@ -16,3 +16,18 @@
 
 * payload
 >最大積載量という意味だが、IT関連では「データそのもの」という意味になっている。
+
+* common
+>一般的な
+
+* use cases
+>使用事例
+
+* environments
+>環境
+
+* Please note
+>ご注意ください
+
+* yet
+>今のところ
