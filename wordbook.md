@@ -31,3 +31,12 @@
 
 * yet
 >今のところ
+
+* laymen
+>素人
+
+* then goes into more detail
+>その後、より詳しく説明します
+
+* following
+>以下

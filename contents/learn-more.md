@@ -28,3 +28,11 @@ Docker に組み込む一般的な使用事例:
 
 \*Docker は現在開発中であるため注意してください。本番環境で使用すべきではありません(今のところ)。
 >Please note Docker is currently under heavy development. It should not be used in productjion (yet).
+
+# Docker の全てを学ぶ
+>Lean what Docker is all about
+
+Docker を素人向けに説明した後、Docker が特別なマシンや仮想マシンと異なることを詳しく説明します。
+>The following presentation explains what Docker is in laymen terms and then goes into more detail what makes Docker special and different from virtual machines.
+
+[プレゼンテーションのリンク](https://www.slideshare.net/slideshow/embed_code/28618034)
