@@ -40,3 +40,37 @@
 
 * following
 >以下
+
+* about ~
+>〜について
+
+* introduction
+>はじめに
+
+* easy to use
+>使いやすい
+
+* traditional
+>従来の
+
+* unlike ~ 
+>~ とは異なり
+
+* made easy
+>簡単に
+>容易になる
+
+* allows
+>ことができます
+
+* each
+>各
+
+* kept
+>保管
+
+* isolated
+>孤立した
+
+* any
+>任意の
