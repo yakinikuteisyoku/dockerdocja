@@ -74,3 +74,61 @@
 
 * any
 >任意の
+
+* highlights
+>ハイライト
+>強調
+
+* provide
+>提供する
+
+* securely
+>しっかりと
+>確実に
+>安全に
+
+* outside
+>外部
+
+* works
+>作業場
+>動作
+
+* fast
+>高速
+>速い
+
+* starting
+>起動
+
+* needs
+>ニーズ
+>必要性
+
+* what ~ needs
+>~が必要とするもの
+
+* no more than
+>~に過ぎない
+
+* agnostic
+>依存しない
+
+* essense
+>本質
+
+* most
+>最も
+
+* importantly
+>重要なこと
+
+* reduces
+>軽減
+
+* complexity
+>複雑
+>複雑さ
+
+* plain English
+>わかりやすい英語
