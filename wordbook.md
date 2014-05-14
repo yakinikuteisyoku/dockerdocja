@@ -132,3 +132,29 @@
 
 * plain English
 >わかりやすい英語
+
+* about ~
+>~ について
+
+* makes ~ tick
+>~ が動かしているもの
+
+* which is ~
+>~ である
+
+* informative:
+>有益
+
+* find
+>見つける
+
+* discover
+>発見
+
+* features
+>特徴
+
+* see
+>見る
+>参照
+

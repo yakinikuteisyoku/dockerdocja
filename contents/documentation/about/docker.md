@@ -49,3 +49,24 @@ Free of framework, language or platform dependencies.
 Docker はわかりやすい英語のコマンドを受け付けます。例えば **docker run [..]**
 >Docker reduces complexity:  
 Docker accepts commands in plain English, e.g. **docker run [..].**
+
+## この手引きについて
+>About this guide
+
+この手引ではツアーに連れて行き、Docker が動かしているものを見せます。
+>In this introduction we will take you on a tour and show you what makes Docker tick.
+
+最初のページで有益である。
+>On the [first page](http://docs.docker.io/introduction/understanding-docker/), which is *informative*:
+
+* あなたは Docker の情報を見つけるでしょう。  
+>You will find information on Docker;
+
+* そして Docker の特徴を発見してください。
+>And discover Docker's features.
+
+* また、仮想マシンと Docker を比較します。
+>We will also compare Docker to virtual machines;
+
+* そしていくつかの使用事例を参照してください。
+>And see some common use cases.
