@@ -56,8 +56,8 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 この手引ではツアーに連れて行き、Docker が動かしているものを見せます。
 >In this introduction we will take you on a tour and show you what makes Docker tick.
 
-最初のページで有益である。
->On the [first page](http://docs.docker.io/introduction/understanding-docker/), which is *informative*:
+[最初のページ](http://docs.docker.io/introduction/understanding-docker/)で有益である。
+>On the first page, which is *informative*:
 
 * あなたは Docker の情報を見つけるでしょう。  
 >You will find information on Docker;
@@ -70,3 +70,6 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 
 * そしていくつかの使用事例を参照してください。
 >And see some common use cases.
+
+### [Docker を理解するには、ここをクリックしてください。](http://docs.docker.io/introduction/understanding-docker/)
+>Click here to go to Understanding Docker.
