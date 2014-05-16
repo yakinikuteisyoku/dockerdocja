@@ -73,3 +73,15 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 
 ### [Docker を理解するには、ここをクリックしてください。](http://docs.docker.io/introduction/understanding-docker/)
 >Click here to go to Understanding Docker.
+
+[2ページ目](http://docs.docker.io/introduction/technology/)には上述の技術的な情報があります。
+>The second page has technical information on:
+
+* Dokcer のアーキテクチャ、
+>The architecture of Docker;
+
+* 根本的なテクノロジーと、 
+>The underlying techology, and;
+
+* Docker がどのように機能するか。
+>How Docker works.

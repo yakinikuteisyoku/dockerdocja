@@ -160,3 +160,12 @@
 
 * Understanding
 >理解する
+
+* on
+>上の
+
+* underlying
+>根本的な
+
+* How ~ works
+>~ がどのように機能するか。
