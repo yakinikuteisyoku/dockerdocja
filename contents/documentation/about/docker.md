@@ -85,3 +85,15 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 
 * Docker がどのように機能するか。
 >How Docker works.
+
+### [テクノロジーを理解するには、ここをクリックしてください。](http://docs.docker.io/introduction/technology/)
+>Click here to go to Understanding the Technology.
+
+3ページ目で実用的な使い方を得られます。そこで次のことが出来ます。
+>On the [third page](http://docs.docker.io/introduction/working-with-docker/) we get practical. There you can:
+
+Docker のコンポーネントを学ぶ。(即ちコンテナ、イメージ、Dockerfile)
+>Learn about Docker's components (i.e. Containers, Images and the Dockerfile);
+
+そして、すぐに一緒に作業を開始しましょう。
+>And get started working with them straight away.

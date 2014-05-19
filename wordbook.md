@@ -169,3 +169,29 @@
 
 * How ~ works
 >~ がどのように機能するか。
+
+* practical
+>実用的
+
+* There you can.
+>そこで次のことが出来ます。
+
+* Learn
+>学ぶ
+
+* i.e.
+>即ち
+>'that is' の省略形
+
+* straight away
+>すぐ
+
+* with them
+>一緒に
+
+* get ~
+>~ ましょう
+>~ を入手
+
+* started working
+>作業を開始
