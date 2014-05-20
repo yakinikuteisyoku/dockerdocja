@@ -195,3 +195,26 @@
 
 * started working
 >作業を開始
+
+* finally,
+>最後に
+
+* hands on
+>実践の
+>実際に
+
+* instructions
+>説明書
+>手順
+
+* some
+>いくつかの
+
+* problems
+>問題
+
+* much
+>ずっと
+
+* easier
+>簡単に

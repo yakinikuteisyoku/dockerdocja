@@ -92,8 +92,20 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 3ページ目で実用的な使い方を得られます。そこで次のことが出来ます。
 >On the [third page](http://docs.docker.io/introduction/working-with-docker/) we get practical. There you can:
 
-Docker のコンポーネントを学ぶ。(即ちコンテナ、イメージ、Dockerfile)
+* Docker のコンポーネントを学ぶ。(即ちコンテナ、イメージ、Dockerfile)
 >Learn about Docker's components (i.e. Containers, Images and the Dockerfile);
 
-そして、すぐに一緒に作業を開始しましょう。
+* そして、すぐに一緒に作業を開始しましょう。
 >And get started working with them straight away.
+
+### Docker で作業するにはここをクリックしてください。
+>Click here to go to Working with Docker.
+
+* 最後に、4ページ目で、実際に見てください。 
+>Finally, on the fourth page, we go hands on and see:
+
+* インストール手順そして、
+>The installation instructions, and:
+
+* Docker がどのように難しい問題を容易にするかを。
+>How Docker makes some hard problems much, much easier.
