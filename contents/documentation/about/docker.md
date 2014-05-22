@@ -109,3 +109,14 @@ Docker accepts commands in plain English, e.g. **docker run [..].**
 
 * Docker がどのように難しい問題を容易にするかを。
 >How Docker makes some hard problems much, much easier.
+
+### Docker を取得するにはここをクリックしてください。
+>Click here to go to Get Docker.
+
+備考: 私達はあなたの時間がどれほど貴重かを知っています。
+従って、このドキュメントは誰でも任意の部分から始める時に必要とされるように用意した。
+Docker を理解するページを見て Docker がいかに変わっているかを確認することを推奨するが、
+既に知識を持っていて早く始めたいなら、ためらうことなく Docker で作業するページを訪れてください。
+>Node: We know how valuable your time is.
+Therefore, the documentation is prepared in away to allow anyone to start from any section need.
+Although we strongly recommend that you visit Understanding Docker to see how Docker is different, if you already have some knowledge and want to quickly get started with Docker, don't hesitate to jump to Working with Docker.

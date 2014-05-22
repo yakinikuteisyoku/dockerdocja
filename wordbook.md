@@ -218,3 +218,56 @@
 
 * easier
 >簡単に
+
+* Node
+>備考
+
+* valuable
+>貴重
+
+* therefore
+>従って
+
+* prepared
+>準備
+>準備された
+
+* allow
+>許可
+
+* anyone
+>誰でも
+>何人
+
+* need
+>必要
+
+* section
+>部分
+>セクション
+
+* Although
+>しかし
+
+* strongly
+>強く
+
+* recommend
+>推奨する
+
+* different
+>異なる
+>変わった
+>異なった
+
+* Understanding
+>理解する
+
+* already
+>既に
+
+* knowledge
+>知識
+
+* hesitate
+>ためらう
