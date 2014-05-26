@@ -271,3 +271,47 @@
 
 * hesitate
 >ためらう
+
+* great
+>素晴らしい
+
+* makes it ~
+>それは ~ です
+
+* building
+>構築
+
+* lifecycle
+>ライフサイクル
+
+* pipelines
+>パイプライン
+
+* hard
+>硬い
+>難しい
+
+* often
+>しばしば
+
+* environment
+>環境
+
+* friction
+>摩擦
+
+* getting
+>取得
+
+* also
+>また
+
+* ensure
+>確保
+
+* those
+>それらの
+
+* consistent
+>一貫性のある
+>同質
