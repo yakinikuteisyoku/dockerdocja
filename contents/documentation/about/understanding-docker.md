@@ -12,3 +12,9 @@
 >It's not easy to create portable applications and services.
 >There's often high friction getting code from your development environment to production.
 >It's also hard to ensure those applications and services are consistent, up-to-date and managed.
+
+Docker は開発者とシステム管理者双方のために、これらの問題を解決するように設計された。
+コンテナの中へビルドと展開を行うためのライフサイクルを提供する軽量なフレームワーク(パワフルなAPIを含む)です。
+>Docker is designed to solve these problem for both developers and sysadmins.
+>It is a lightweight framework(with a powerful API) that provides a lifecycle for building and deploying applications into containers.
+
