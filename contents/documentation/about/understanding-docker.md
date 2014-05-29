@@ -18,3 +18,6 @@ Docker は開発者とシステム管理者双方のために、これらの問�
 >Docker is designed to solve these problem for both developers and sysadmins.
 >It is a lightweight framework(with a powerful API) that provides a lifecycle for building and deploying applications into containers.
 
+Dockerはほとんどのアプリケーションをコンテナの中で安全に孤立して実行する方法を提供します。
+>Docker provides a way to run almost any application securely isolated into a container.
+
