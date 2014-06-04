@@ -20,6 +20,7 @@ Docker は開発者とシステム管理者双方のために、これらの問�
 
 Dockerはほとんどのアプリケーションをコンテナの中で安全に孤立して実行する方法を提供します。
 >Docker provides a way to run almost any application securely isolated into a container.
+
 隔離とセキュリティを可能にするとホスト上でいくつものコンテナを同時に実行できます。
 >The isolation and security allows you to run many containers simultaneously on your host.
 
