@@ -1,6 +1,18 @@
+>https://docs.docker.com/introduction/understanding-docker/
+
 # Docker を理解する 
 >Understanding Docker
 
+What is Docker?
+>Docker とは何ですか？
+
+Docker is an open platform for developing, shipping, and running applications.
+>Docker はアプリケーションを開発、出荷及び実行するためのオープンプラットフォームです。
+
+Docker is designed to deliver your application faster.
+>Docker はあなたのアプリケーションをより早く届けるために設計されました。
+
+<!-- サイトが更新される前の翻訳内容。(途中) -->
 *Docker とは何ですか？ 何が素晴らしいのですか？*
 >What is Docker? What makes it gread?
 
