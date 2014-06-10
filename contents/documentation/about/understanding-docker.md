@@ -12,6 +12,14 @@ Docker is an open platform for developing, shipping, and running applications.
 Docker is designed to deliver your application faster.
 >Docker はあなたのアプリケーションをより早く届けるために設計されました。
 
+Docker を使用するとインフラからアプリケーションを分離して、管理されたアプリケーションのようなインフラを扱うことができる。
+>With Docker you can separate your applications from your infrastructure AND treat your infrastructure like a managed application.
+
+Docker はより高速にコードを送ること、より高速にテストすること、より高速に配布することそして、コードを書いてコードを実行するサイクルを短くすることに役立ちます。
+>Docker helps you ship code faster, test faster, deploy faster, and shorten the cycle betweeen writing code and running code.
+
+
+
 <!-- サイトが更新される前の翻訳内容。(途中) -->
 *Docker とは何ですか？ 何が素晴らしいのですか？*
 >What is Docker? What makes it gread?
