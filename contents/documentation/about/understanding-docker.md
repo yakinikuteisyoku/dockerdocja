@@ -18,6 +18,8 @@ Docker を使用するとインフラからアプリケーションを分離し�
 Docker はより高速にコードを送ること、より高速にテストすること、より高速に配布することそして、コードを書いてコードを実行するサイクルを短くすることに役立ちます。
 >Docker helps you ship code faster, test faster, deploy faster, and shorten the cycle betweeen writing code and running code.
 
+Docker はあなたのアプリケーションの管理と配備を支援するワークフローとツールに軽量コンテナ仮想化プラットフォームを組み合わせることにより実行します。
+>Docker does this by combining a lightweight container virtualization platform with workflows and tooling that help you manage and deploy your applications.
 
 
 <!-- サイトが更新される前の翻訳内容。(途中) -->
